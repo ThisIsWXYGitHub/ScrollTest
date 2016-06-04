@@ -6,7 +6,6 @@ package com.example.lenovo.scrolltest;
 public class Test {
     public void sayhello()
     {
-        int t;
         System.out.println("hello github");
     }
 }
