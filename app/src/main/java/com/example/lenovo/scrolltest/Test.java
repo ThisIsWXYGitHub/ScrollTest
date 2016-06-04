@@ -7,5 +7,6 @@ public class Test {
     public void sayhello()
     {
         System.out.println("hello github");
+        System.out.println("wxywxywxy");
     }
 }
